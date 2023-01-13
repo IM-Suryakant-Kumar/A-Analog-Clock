@@ -2,7 +2,7 @@
 
 ## Screenshots :
 
-![clock](https://user-images.githubusercontent.com/66691162/212275868-e3eb158b-e47d-48a7-99c7-36510096c759.png)
+![clock](https://user-images.githubusercontent.com/66691162/212285676-e31733b9-65c9-4015-8f84-2ec3be652fc4.png)
 
 ## 💻 Tech Stack 🧑‍💻:
 
