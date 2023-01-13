@@ -1,4 +1,4 @@
-<h1 align="center"><strong>A Analog Clock</strong></h1>
+# A Analog Clock
 
 ## Screenshots :
 
