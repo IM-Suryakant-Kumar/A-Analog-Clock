@@ -1,6 +1,7 @@
-# A Analog Clock
+<h1 align="center"><strong>A Analog Clock</strong></h1>
 
-## Screenshots
+## Screenshots :
+
 ![clock](https://user-images.githubusercontent.com/66691162/212275868-e3eb158b-e47d-48a7-99c7-36510096c759.png)
 
 ## 💻 Tech Stack 🧑‍💻:
